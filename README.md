@@ -1,7 +1,6 @@
 # desafio-bar-oo
 ## Competências avaliadas:
-- Criação de projeto Spring Boot
 
-- Configuração de componentes Spring e injeção de dependência
+- Estrutura sequencial em linguagem Java
 
-- Implementação de projeto de componentes
+- Estrutura condicional em linguagem Java
